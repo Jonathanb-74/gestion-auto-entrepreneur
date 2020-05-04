@@ -1,5 +1,9 @@
 # Gestion auto entrepreneur
 
+<p align="center">
+    <img src="https://github.com/Jonathanb-74/gestion-auto-entrepreneur/blob/master/.documentation/logo.png" alt="Logo application" width="415" data-align="center">
+</p>
+
 <div align="center">
   <!-- License -->
   <a href="LICENSE">
@@ -30,6 +34,9 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
 </div>
+<p>
+    <span>Par <a href="http://jonathan-brea.fr">Jonathan BREA</a></span>
+</p>
 
 ## Sommaire
 
