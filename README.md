@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://github.com/Jonathanb-74/gestion-auto-entrepreneur/blob/master/.documentation/logo.png" alt="Logo application" width="415" data-align="center">
     <br>
-    <a href="https://www.gnu.org/licenses/quick-guide-gplv3.fr.html" style="margin-left: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/LICENCE-GPL%20v3-red" alt="GPL v3"></a><a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJonathanb-74%2Fgestion-auto-entrepreneur?ref=badge_shield" alt="FOSSA Status" style="margin-left: 5px; margin-right: 5px;"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJonathanb-74%2Fgestion-auto-entrepreneur.svg?type=shield"/></a>
+    <span style="margin-left: 5px; margin-right: 5px;"><a href="https://www.gnu.org/licenses/quick-guide-gplv3.fr.html"><img src="https://img.shields.io/badge/LICENCE-GPL%20v3-red" alt="GPL v3"></a></span><span style="margin-left: 5px; margin-right: 5px;"><a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJonathanb-74%2Fgestion-auto-entrepreneur?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJonathanb-74%2Fgestion-auto-entrepreneur.svg?type=shield"/></a></span>
     <br>
     <span>Par <a href="http://jonathan-brea.fr">Jonathan BREA</a></span>
 </p>
