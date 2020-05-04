@@ -312,10 +312,6 @@ Génération des documents (devis & factures) au format PDF.
 
 Envoi des emails avec authentification sur un serveur SMTP.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="YRFF8YJ93HE68" />
 <p align="center">
-    <img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1" alt="paypal" width="415" data-align="center"/>
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YRFF8YJ93HE68&source=url"><img src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" alt="GPL v3"></a>
 </p>
-</form>
