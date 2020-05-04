@@ -7,30 +7,35 @@
     <br>
     <span>Par <a href="http://jonathan-brea.fr">Jonathan BREA</a></span>
 </p>
-
+![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/l/Jonathanb-74/gestion-auto-entrepreneur)
 <div align="center">
   <!-- License -->
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/marktext/marktext.svg" alt="LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/marktext/marktext/">
-    <img src="https://travis-ci.org/marktext/marktext.svg?branch=master" alt="build">
+  <!-- release version -->
+  <a>
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
-  <a href="https://ci.appveyor.com/project/marktext/marktext/branch/master">
-    <img src="https://ci.appveyor.com/api/projects/status/l4gxgydj0i95hmxg/branch/master?svg=true" alt="build">
+  <!-- downloads total -->
+  <a>
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Jonathanb-74/gestion-auto-entrepreneur/total">
   </a>
   <!-- Downloads total -->
-  <a href="https://github.com/marktext/marktext/releases">
+  <a >
     <img src="https://img.shields.io/github/downloads/marktext/marktext/total.svg" alt="total download">
   </a>
-  <!-- Downloads latest release -->
-  <a href="https://github.com/marktext/marktext/releases/latest">
-    <img src="https://img.shields.io/github/downloads/marktext/marktext/v0.16.1/total.svg" alt="latest download">
+  <!-- Repo size -->
+  <a >
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
   <!-- sponsors -->
-  <a href="https://opencollective.com/marktext">
-    <img src="https://opencollective.com/marktext/tiers/silver-sponsors/badge.svg?label=SilverSponsors&color=brightgreen" alt="sponsors">
+  <a >
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Jonathanb-74/gestion-auto-entrepreneur">
+  </a>
+  <!-- stars -->
+  <a >
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
 </div>
 
