@@ -17,10 +17,6 @@
   <a>
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Jonathanb-74/gestion-auto-entrepreneur/total">
   </a>
-  <!-- Downloads total -->
-  <a >
-    <img src="https://img.shields.io/github/downloads/marktext/marktext/total.svg" alt="total download">
-  </a>
   <!-- Repo size -->
   <a >
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Jonathanb-74/gestion-auto-entrepreneur">
@@ -34,7 +30,7 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
 </div>
-<p>
+<p align="center">
     <span>Par <a href="http://jonathan-brea.fr">Jonathan BREA</a></span>
 </p>
 
