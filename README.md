@@ -312,6 +312,14 @@ Génération des documents (devis & factures) au format PDF.
 
 Envoi des emails avec authentification sur un serveur SMTP.
 
+## Contribuer
+
+### Me contacter
+
+contact@jonathan-brea.fr
+
+### Soutenir
+
 <p align="center">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YRFF8YJ93HE68&source=url"><img src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" alt="GPL v3"></a>
 </p>
