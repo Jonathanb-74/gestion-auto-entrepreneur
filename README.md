@@ -311,3 +311,11 @@ Génération des documents (devis & factures) au format PDF.
 ### [PHPmailer](https://github.com/PHPMailer/PHPMailer)
 
 Envoi des emails avec authentification sur un serveur SMTP.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="YRFF8YJ93HE68" />
+<p align="center">
+    <img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1" alt="paypal" width="415" data-align="center"/>
+</p>
+</form>
