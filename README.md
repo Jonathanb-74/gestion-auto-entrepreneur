@@ -9,6 +9,9 @@
   <a href="LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/Jonathanb-74/gestion-auto-entrepreneur">
   </a>
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJonathanb-74%2Fgestion-auto-entrepreneur?ref=badge_shield" alt="FOSSA Status">
+    <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJonathanb-74%2Fgestion-auto-entrepreneur.svg?type=shield"/>
+  </a>
   <!-- release version -->
   <a>
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonathanb-74/gestion-auto-entrepreneur">
