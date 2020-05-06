@@ -59,6 +59,7 @@
 							<option value="" <?php echo (parametre("13", "texte1") == "") ? "selected" : "" ; ?>>Non</option>
 							<option value="STARTTLS" <?php echo (parametre("13", "texte1") == "STARTTLS") ? "selected" : "" ; ?>>STARTTLS</option>
 							<option value="tls" <?php echo (parametre("13", "texte1") == "tls") ? "selected" : "" ; ?>>tls</option>
+							<option value="ssl" <?php echo (parametre("13", "texte1") == "ssl") ? "selected" : "" ; ?>>ssl</option>
 						</select>
 					</div>
 					<div class="form-group col-md-4" id="particulierNom">
