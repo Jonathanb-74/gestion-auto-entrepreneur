@@ -60,7 +60,11 @@
    
    6. [Configuration des mails](#configuration-des-mails)
 
-4. Crédits
+4. [Crédits](#crédits)
+
+5. [Licence](#licence)
+
+6. [Contribuer](#contribuer)
 
 ## Présentation
 
