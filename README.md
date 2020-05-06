@@ -234,6 +234,8 @@ Cette manipulation est spécifique à chacun, vous devez vous renseigner sur la 
 > 1&1 - IONOS: [Paramètres de votre programme de messagerie (IMAP & POP3) - IONOS Assistance](https://www.ionos.fr/assistance/email/11-ionos-gerer-le-courrier-de-base/parametres-pour-votre-programme-de-messagerie-imap-pop3/)
 > 
 > GMAIL: [Envoyer des e-mails depuis une imprimante, un scanner ou une application - Aide Administrateur G Suite](https://support.google.com/a/answer/176600?hl=fr)
+> 
+> AMEN: [Paramètre de configuration de compte email dans un logiciel client - Hébergement web, création de site et nom de domaine - Amen.fr](https://www.amen.fr/support/configuration-compte-email-logiciel-client/)
 
 Si vous utilisez <u>une adresse Gmail avec la double authentification activée</u>, consultez cette documentation qui vous perméttra de vous connecter sans la double authentification: [se connecter avec un mot de passe d'application - Aide Compte Google](https://support.google.com/accounts/answer/185833?hl=fr)
 
