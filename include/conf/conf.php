@@ -63,3 +63,5 @@ if ($_SERVER['PHP_SELF'] != "/install/install.php" && $_SERVER['PHP_SELF'] != "/
 		exit();
 	}
 }
+
+require_once ($racine . "/include/PHPMarkdownLib/Michelf/Markdown.inc.php");

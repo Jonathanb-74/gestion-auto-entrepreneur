@@ -39,6 +39,8 @@
 				</thead>
 				<tbody>
 					<?php
+						use Michelf\Markdown;
+
 						// On créé la requête
 						$reqProduits = "SELECT * FROM produits";
 						 
@@ -55,7 +57,7 @@
 									<td><?php echo $dataProduits['prixachat']; ?> €</td>
 									<td><?php echo $dataProduits['coefmarge']; ?> %</td>
 									<td><?php echo $dataProduits['prixvente']; ?> €</td>
-									<td><?php echo $dataProduits['commentaire']; ?></td>
+									<td class="text-left"><?php echo Markdown::defaultTransform($dataProduits['commentaire']); ?></td>
 									<td><a href="<?php echo "edit.php?ref=" . $dataProduits['ref']; ?>"><i title="Editer" class="fas fa-pen-square"></a></i></td>
 									<td><a> <?php echo ($dataProduits['desactiver'] == 0) ? "<i title=\"Cet article est activé\" class=\"fas fa-check-circle\"></i>" : "<i title=\"Cet article est désactivé, vous ne pourrez plus l'utiliser dans les prochaines factures.\" class=\"fas fa-times-circle\"></i>" ; ?></a></td>
 								</tr>
