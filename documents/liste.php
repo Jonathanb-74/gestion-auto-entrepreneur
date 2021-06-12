@@ -73,9 +73,9 @@
 										}
 										?>
 										<td><?php echo utf8_encode(strftime('%d/%m/%g', strtotime($dataListeDocuments['dateEdition']))); ?></td>
-										<td><?php echo documentNumerotationAffichage($dataListeDocuments['id']); ?></td>
+										<td><?php echo documentNumerotationAffichage($dataListeDocuments['numero']); ?></td>
 										<td><?php echo $dataListeDocuments['note']; ?></td>
-										<td><a href="<?php echo $racine . "/include/documents/" . documentNumerotationAffichage($dataListeDocuments['id']) . ".pdf"; ?>" target="_blank"><i class="fas fa-file-pdf"></i></a></td>
+										<td><a href="<?php echo $racine . "/include/documents/" . documentNumerotationAffichage($dataListeDocuments['numero']) . ".pdf"; ?>" target="_blank"><i class="fas fa-file-pdf"></i></a></td>
 									</tr>
 								<?php
 							}

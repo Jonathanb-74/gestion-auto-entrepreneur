@@ -25,6 +25,7 @@ if (isset($_POST['inputREF']) && !empty($_POST['inputREF']) && isset($_POST['inp
 	$PrixVente = $_POST['inputPrixVente'];
 
 	$Description    = htmlspecialchars(rtrim(ltrim($_POST['inputProduitDescription'])));
+	$Description = mysqli_real_escape_string($conn, $Description);
 
 	$reqProduitEdit = "UPDATE produits SET prixachat='$PrixAchat', coefmarge='$CoefMarge', prixvente='$PrixVente', commentaire='$Description', desactiver='1' WHERE ref=$ref";
 
