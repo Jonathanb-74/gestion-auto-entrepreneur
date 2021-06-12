@@ -1,8 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <document>
-    <titre>Facture 1</titre>
+    <titre>Modèle 1</titre>
     <auteur>Jonathan BREA</auteur>
-    <description>Facture de base couleure orange</description>
+    <description>Facture / Devis (couleur orange)</description>
     <version>0.1</version>
     <fichier>modele1.php</fichier>
 </document>

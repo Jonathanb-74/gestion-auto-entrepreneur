@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='yes'?>
+<document>
+    <titre>Modèle 2</titre>
+    <auteur>Jonathan BREA</auteur>
+    <description>Facture / Devis (couleur bleu)</description>
+    <version>0.1</version>
+    <fichier>modele2.php</fichier>
+</document>
